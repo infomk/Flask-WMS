@@ -1,0 +1,9 @@
+
+
+FlaskWms:
+    name: Simple Flask WMS - Demo
+    version: 1.0.0
+    author: Mauricio Karrei <mauriciokarrei@gmail.com>
+    config:
+        port: 5000
+        debug: True
